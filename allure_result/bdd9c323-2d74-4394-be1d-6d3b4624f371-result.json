@@ -1,0 +1,85 @@
+{
+  "name": "Test Authentication",
+  "status": "passed",
+  "description": "This test attempts to log into the website using a login and a password. Fails if any error happens.\n\nNote that this test does not test 2-Factor Authentication.",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "32201a2f-bb6b-4017-bb70-19da928ee6f8-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1728444756644,
+  "stop": 1728444756645,
+  "uuid": "7511deac-3f6f-455e-b5c8-4f8283c93d15",
+  "historyId": "aa1cb673f9dbed6a338c5769ed28e5ce",
+  "testCaseId": "aa1cb673f9dbed6a338c5769ed28e5ce",
+  "fullName": "Oct.test_Lab101#test_testcase1",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "NewUI"
+    },
+    {
+      "name": "owner",
+      "value": "John Doe"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "tag",
+      "value": "Essentials"
+    },
+    {
+      "name": "tag",
+      "value": "Authentication"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Oct"
+    },
+    {
+      "name": "suite",
+      "value": "test_Lab101"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-07C4ROQ"
+    },
+    {
+      "name": "thread",
+      "value": "24584-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "Oct.test_Lab101"
+    }
+  ],
+  "links": [
+    {
+      "type": "tms",
+      "url": "TMS-456",
+      "name": "TMS-456"
+    },
+    {
+      "type": "issue",
+      "url": "AUTH-123",
+      "name": "AUTH-123"
+    },
+    {
+      "type": "link",
+      "url": "https://dev.example.com/",
+      "name": "Website"
+    }
+  ]
+}

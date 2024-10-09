@@ -1,0 +1,48 @@
+{
+  "name": "test_verify_multi",
+  "status": "skipped",
+  "statusDetails": {
+    "message": "Skipped: Not Completed!",
+    "trace": "('C:\\\\AutomationTestingCourse\\\\APIautomation\\\\Oct\\\\test_Lab101.py', 38, 'Skipped: Not Completed!')"
+  },
+  "start": 1728444756661,
+  "stop": 1728444756661,
+  "uuid": "8b92e1e8-b6df-4a92-8988-07b2d3c79d6c",
+  "historyId": "25ecc52dcad4ef1e255819ad247371c8",
+  "testCaseId": "25ecc52dcad4ef1e255819ad247371c8",
+  "fullName": "Oct.test_Lab101#test_verify_multi",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "@pytest.mark.skip(reason='Not Completed!')"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Oct"
+    },
+    {
+      "name": "suite",
+      "value": "test_Lab101"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-07C4ROQ"
+    },
+    {
+      "name": "thread",
+      "value": "24584-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "Oct.test_Lab101"
+    }
+  ]
+}
